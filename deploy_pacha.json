@@ -1,0 +1,47 @@
+{
+    "p":"brc333",
+    "op":"deploy",
+    "collection":{
+       "slug":"pacha",
+       "description": "What are the Pachabilities? Pacha is a little girl with big dreams. When Pacha goes to sleep, the plants and animals on her pjs guide her on a dream adventure to learn more about herself and her connection with the natural world. The first Pacha ordinals will get VIP treatment in the PACHA JAMMA metaverse game on Bitmap. Parcels available for rent or sale to animal ordinals in the forest, jungle, mountain, beach, savannah, farm, artic, and the sea biomes.",
+       "name":"Pachabilities",
+       "creator":"@shiftshapr & A77AH",
+       "supply": 10080
+    },
+    "colors": {
+        "0": ["#FF0000","#00FF00","#0000FF","#FFFF00","#FF00FF","#00FFFF","#800080","#FFA500","#FFC0CB","#A52A2A"],
+        "1": ["#FFB3B3","#B3FFB3","#B3B3FF","#FFFFB3","#FFB3FF","#B3FFFF","#D1B3D1","#FFD1B3","#FFD1D1","#D1A3A3"],
+        "2": ["#FF073A","#39FF14","#1B03A3","#FFFF33","#FF33FF","#33FFFF","#9400D3","#FF4500","#FF69B4","#964B00"],
+        "3": ["#4EAB35", "#1845F5", "#ED3833", "#FACD48", "#FFFFFF"],
+        "4": ["#F8D349", "#47B8F7", "#EFC2ED", "#6B6BC2", "#909090"],
+        "5": ["#ACDAD8", "#EF6C38", "#76D1EA", "#ED893B", "#E1E4CA"],
+        "6": ["#5C7D7F", "#E9CF68", "#B92C42", "#512538", "#D55F3F"],
+        "7": ["#61CEC5", "#BE4F59", "#CBF048", "#EF6D68", "#556272"],
+        "8": ["#FFDE00","#FF6347","#FF4040","#3CB371","#1E90FF","#C71585","#FF69B4","#8A2BE2","#20B2AA","#FFA07A","#800000","#008000","#0000FF","#FF0000","#000080","#FFC0CB","#A52A2A","#008080","#800080","#FFFF00","#FFC0CB","#DC143C","#A52A2A","#DEB887","#5F9EA0","#7FFF00","#D2691E","#FF7F50","#6495ED","#FFD700","#DAA520","#FFBF00","#ADFF2F","#FF69B4","#CD5C5C","#4B0082","#F0E68C","#7CFC00","#ADD8E6","#F08080","#90EE90","#FFB6C1","#FFA07A","#20B2AA","#87CEFA","#B0C4DE","#00FF00","#32CD32","#FF00FF","#800000","#66CDAA","#0000CD","#BA55D3","#9370DB","#3CB371","#7B68EE","#00FA9A","#48D1CC","#C71585","#191970","#FFE4B5","#000080","#808000","#6B8E23","#FFA500","#FF4500","#DA70D6","#EEE8AA","#98FB98","#AFEEEE","#DB7093","#CD853F","#FFC0CB","#DDA0DD","#800080","#663399","#FF0000","#BC8F8F","#4169E1","#8B4513","#FA8072","#F4A460","#2E8B57","#A0522D","#87CEEB","#6A5ACD","#00FF7F","#4682B4","#D2B48C","#008080","#D8BFD8","#FF6347","#40E0D0","#EE82EE","#9ACD32","#BF9B30"] 
+      }, 
+      "poses":[
+        {"original":"a2211c69fc7f40910bcf0cc421a33acfcfb4bf1772951f3257c86c900b3526c0i0"},
+        {"masked":"6a7b603a170647bafcbcc46b74f57b9692b342d61864d71cad8afcd52d2a1e07i0"},
+        {"alien":"865cbf412c716a01d2df98de76d3ebbfbbba3c1a88ccf4aab4725dc7f62a5010i0"},
+        {"unicorn":"74d3af68cfba22611d957afd4dce4a9ed80db245a05bf5b33ea4c73673e5652di0"},
+        {"pothead":"c4f99cac3be94e5736974ba8b9320bdbbb9fa2a035cb34699363193e0c23ff35i0"},
+        {"bubble":"007b7f34751f6d66883ef3717aff2f64fde75b2f137c312b3efd545daffd5748i0"},
+        {"mushroom":"d0dc860f089f95af0f04158400e0500f4820995c7a9fb4af060090b5ea9e3e72i0"},
+        {"cat ears":"b86361b117076af703b7c4e8dd5f69e3f540984beed77cdb1f8b0e6930d74392i0"},
+        {"clown":"d90e303c4eebda60b984caea25bf9da17366f320b000fe9fc8c07adb87bbaca9i0"},
+        {"jaguar":"02ff8a8a63b23e54e07dfe36213c1af6519c73d88bcab655bf89c449379786e8i0"},
+        {"aquatic":"b8ce01d215e07b968be0dba05bd5a25aaeac074f310564911151f37e284f54f6i0"}
+    ],
+    "backgrounds":[
+        {"sea": "2c72f676eb54419b8ffdf6a140d18f3054d87d3109e19762482e92e63b42d1fdi0"},
+        {"galactic castle": "d49b750c8e9d65e007410118f2c12f1fd12737edc193f09f3967da751f8fd8f9i0"},
+        {"cityscape": "38da2cd4d6084c07c10136a8e391f6dfaadd371506526b721985c18756360bd2i0"},
+        {"clouds": "db7d4fe66a23b41c47bba6fb3e42279aca6796a808da5367b0d0c2ead931d0cfi0"},
+        {"desert": "ac45a01a04c54793f8c8ef1a0c9c82184df53a9e6c4d82bfe1b67b4daa2c80adi0"},
+        {"mountains": "2082fb36faa5e84c532e10988b7787a09fda42da8145075089f5c3f4b3fec49ai0"},
+        {"forest": "cabbe3b1f09d4b5a571579c934627c12124917b521b3942a7f9a2218f04d505fi0"},
+        {"rain": "588a6a0ce72a4bcc0e096c8fabd17058e2d6b76286898d6591069e2f51e24c27i0"},
+        {"starry night": "7a22e504d45051234a951d9a229f399c35ebaaf956fd15c51ebbd68064f55646i0"},
+        {"beach": "579f7ae89269b3c2dc48c4baa4fb51ffba90c26f624fe7520893f2d5e0ab6d44i0"}
+    ]
+ }
